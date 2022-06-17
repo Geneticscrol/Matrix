@@ -4,5 +4,5 @@ Matrix Animation built using pure HTML and JAVASCRIPT. Use live-server to run th
 
 ### On **Visual Studio Code** use
 >*live-server* extension.
-### In **Terminal** install
->*live-server* application. `sudo apt install live-server -y`
+### In **Terminal** 
+>install *live-server* application. `sudo apt install live-server -y`
