@@ -6,3 +6,5 @@ Matrix Animation built using pure HTML and JAVASCRIPT. Use live-server to run th
 >*live-server* extension.
 ### In **Terminal** 
 >install *live-server* application. `sudo apt install live-server -y`
+
+## Visit https://geneticscrol.github.io/Matrix/
